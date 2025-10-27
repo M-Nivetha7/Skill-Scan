@@ -1,9 +1,11 @@
 # Welcome to SKILLSCAN!
 
-A modern, production-ready template for building full-stack React applications using React Router.
+SkillScan is an AI-driven resume analysis tool that helps job seekers improve their resumes through smart feedback and skill evaluation. Using advanced Natural Language Processing (NLP) and Machine Learning (ML), it analyzes resume content, detects missing skills, and provides actionable suggestions to enhance job readiness.
 
 
 ## Features
+
+A modern, production-ready template for building full-stack React applications using React Router.
 
 - 🚀 Server-side rendering
 - ⚡️ Hot Module Replacement (HMR)
@@ -82,6 +84,4 @@ Make sure to deploy the output of `npm run build`
 This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever CSS framework you prefer.
 
 =======
-# Skill-Scan
-SkillScan is an AI-driven resume analysis tool that helps job seekers improve their resumes through smart feedback and skill evaluation. Using advanced Natural Language Processing (NLP) and Machine Learning (ML), it analyzes resume content, detects missing skills, and provides actionable suggestions to enhance job readiness.
->>>>>>> d4fddafb3121b7a8ab54d0f71bdfa641e84c56ae
+
